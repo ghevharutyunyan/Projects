@@ -2,7 +2,7 @@ QT       += core gui
 QT += sql
 
 
-include(/home/ghevond/CStorage/QXlsx/QXlsx/QXlsx.pri)
+include(/home/ghevond/Projects/CStorage/QXlsx/QXlsx/QXlsx.pri)
 
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
