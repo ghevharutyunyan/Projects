@@ -1,4 +1,4 @@
-﻿#include "Header1.h"
+﻿#include "HashTable"
 #include <iostream>
 
 int main() {
